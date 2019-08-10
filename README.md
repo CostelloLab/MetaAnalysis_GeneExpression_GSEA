@@ -1,2 +1,2 @@
-# MetaAnalysis_GeneExpression_GSEA
-Curated gene expression data for meta-analysis of gene rank and GSEA results
+## Meta-analysis of 5,718 small molecule treatment gene expression experiments
+Curated gene expression data for meta-analysis of gene rank distributions and GSEA results
